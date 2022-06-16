@@ -1,2 +1,2 @@
-# PR-BRD
-Repository for the XB15-PR MainBoard
+# MicroProto
+Repository for the XB15-MicroProto MainBoard
